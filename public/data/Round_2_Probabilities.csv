@@ -1,0 +1,5 @@
+home_team,away_team,outcome,probability,home_wins_G1,home_wins_G2,home_wins_G3,home_wins_G4,home_wins_G5,home_wins_G6,home_wins_G7,home_wins,away_wins,conference,round
+TOR,FLA,Away in 7,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,3,4,East,2
+VGK,EDM,Away in 5,1.0,0.0,0.0,1.0,0.0,0.0,0.45049,0.5211,1,4,West,2
+WPG,DAL,Away in 6,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.48688,2,4,West,2
+WSH,CAR,Away in 5,1.0,0.0,1.0,0.0,0.0,0.0,0.39152,0.46735,1,4,East,2

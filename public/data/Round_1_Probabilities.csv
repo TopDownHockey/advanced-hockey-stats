@@ -1,0 +1,9 @@
+home_team,away_team,outcome,probability,conference,round,home_wins,away_wins,home_wins_G1,home_wins_G2,home_wins_G3,home_wins_G4,home_wins_G5,home_wins_G6,home_wins_G7
+CAR,N.J,Home in 5,1.0,East,1,4,1,1.0,1.0,0.0,1.0,1.0,0.52818,0.60136
+DAL,COL,Home in 7,1.0,West,1,4,3,0.0,1.0,1.0,0.0,1.0,0.0,1.0
+L.A,EDM,Away in 6,1.0,West,1,2,4,1.0,1.0,0.0,0.0,0.0,0.0,0.55873
+T.B,FLA,Away in 5,1.0,East,1,1,4,0.0,0.0,1.0,0.0,0.0,0.45254,0.52905
+TOR,OTT,Home in 6,1.0,East,1,4,2,1.0,1.0,1.0,0.0,0.0,1.0,0.57697
+VGK,MIN,Home in 6,1.0,West,1,4,2,1.0,0.0,0.0,1.0,1.0,1.0,0.55449
+WPG,STL,Home in 7,1.0,West,1,4,3,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+WSH,MTL,Home in 5,1.0,East,1,4,1,1.0,1.0,0.0,1.0,1.0,0.53561,0.60979

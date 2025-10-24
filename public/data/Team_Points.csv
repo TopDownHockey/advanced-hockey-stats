@@ -1,0 +1,17 @@
+,team,division,wild_card,conference,points,r1_opp,round,seed
+0,WPG,Central,False,West,116.0,STL,1,D1
+1,DAL,Central,False,West,106.0,COL,1,D2
+2,COL,Central,False,West,102.0,DAL,1,D3
+3,VGK,Pacific,False,West,110.0,MIN,1,D1
+4,L.A,Pacific,False,West,105.0,EDM,1,D2
+5,EDM,Pacific,False,West,101.0,L.A,1,D3
+6,MIN,Pacific,True,West,97.0,VGK,1,WC1
+7,STL,Central,True,West,96.0,WPG,1,WC2
+8,TOR,Atlantic,False,East,108.0,OTT,1,D1
+9,T.B,Atlantic,False,East,102.0,FLA,1,D2
+10,FLA,Atlantic,False,East,98.0,T.B,1,D3
+11,WSH,Metropolitan,False,East,111.0,MTL,1,D1
+12,CAR,Metropolitan,False,East,99.0,N.J,1,D2
+13,N.J,Metropolitan,False,East,91.5,CAR,1,D3
+14,OTT,Atlantic,True,East,97.5,TOR,1,WC1
+15,MTL,Metropolitan,True,East,91.0,WSH,1,WC2
